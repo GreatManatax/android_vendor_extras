@@ -38,7 +38,7 @@ from xml.etree import ElementTree
 
 # Default properties
 DEFAULT_REMOTE = 'github'
-DEFAULT_ORG = 'DirtyUnicorns'
+DEFAULT_ORG = 'GreatManatax'
 DEFAULT_BRANCH = 'q10x'
 ALTERNATE_REMOTE = 'alternate'
 # Dependency file name
